@@ -5,7 +5,7 @@
 <p align="center">
   Systems-minded developer focused on low-level software, blockchain core, and reliable engineering.
   <br />
-  I enjoy building things close to the metal and working with people in a calm, practical way.
+  I want to build things at the boundary between hardware and software, and work with people in a calm, practical way.
 </p>
 
 <p align="center">
