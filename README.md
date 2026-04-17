@@ -1,16 +1,59 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Sungje%20Park&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%7C%20Blockchain%20%7C%20Core%20CS&descAlignY=58" alt="Sungje Park header" />
+</p>
 
-<!--
-**dotcom07/dotcom07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Systems-minded developer focused on low-level software, blockchain core, and reliable engineering.
+  <br />
+  I enjoy building things close to the metal and working with people in a calm, practical way.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:dotcombubblecom@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/dotcom07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://velog.io/@dotcom07/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I like turning core CS ideas into software people can trust.
+- My interests sit around systems programming, blockchain infrastructure, performance, and developer tooling.
+- I care about strong fundamentals, readable code, and being easy to work with on a team.
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React" />
+</p>
+
+## What I Like Building
+
+- Low-level systems and performance-sensitive software
+- Blockchain core, protocol-side logic, and smart contract tooling
+- Developer tools that make complex problems easier to reason about
+- Products built with clear communication and solid engineering habits
+
+## GitHub Highlights
+
+<p align="center">
+  <img src="https://trophy.benkou.dev/?username=dotcom07&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=4" alt="dotcom07 trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dotcom07&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="dotcom07 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotcom07&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages" />
+</p>
