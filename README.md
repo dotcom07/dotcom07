@@ -22,9 +22,8 @@
 
 ## About Me
 
-- I like turning core CS ideas into software people can trust.
-- My interests sit around systems programming, blockchain infrastructure, performance, and developer tooling.
-- I care about strong fundamentals, readable code, and being easy to work with on a team.
+- I'm interested in low-level systems optimization and blockchain core systems.
+- I value strong fundamentals, readable code, and clear communication, and I aim to be someone who is easy to work with on a team.
 
 ## Tech Stack
 
@@ -38,14 +37,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ## What I Like Building
 
 - Low-level systems and performance-sensitive software
-- Blockchain core, protocol-side logic, and smart contract tooling
-- Developer tools that make complex problems easier to reason about
-- Products built with clear communication and solid engineering habits
+- Blockchain core systems and execution-layer implementations
+- Products, or the systems behind them, built by combining business thinking with computer science thinking
 
 ## GitHub Highlights
 
