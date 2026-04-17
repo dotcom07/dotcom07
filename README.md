@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Sungje%20Park&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%7C%20Blockchain%20%7C%20Core%20CS&descAlignY=58" alt="Sungje Park header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=SUNG%20JE%20PARK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%7C%20Blockchain%20%7C%20Core%20CS&descAlignY=58" alt="SUNG JE PARK header" />
 </p>
 
 <p align="center">
