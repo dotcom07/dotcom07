@@ -61,8 +61,3 @@
 <p align="center">
   <img src="https://trophy.benkou.dev/?username=dotcom07&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=4" alt="dotcom07 trophies" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dotcom07&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="dotcom07 GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotcom07&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages" />
-</p>
