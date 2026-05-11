@@ -25,6 +25,9 @@
   <a href="https://www.notion.so/PORTFOLIO-SUNGJE-PARK-en-35d6dc69e5dc80968d9edc8c87d36cb8">
     <img src="https://img.shields.io/badge/Portfolio-EN-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio in English on Notion" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:dotcombubblecom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
