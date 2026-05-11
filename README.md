@@ -38,7 +38,7 @@
 
 ## About Me
 
-- I'm interested in low-level systems optimization and blockchain core systems.
+- I'm interested in low-level systems optimization, blockchain core systems, and AI systems.
 - I value strong fundamentals, readable code, and clear communication, and I aim to be someone who is easy to work with on a team.
 
 ## Tech Stack
