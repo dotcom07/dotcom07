@@ -10,13 +10,20 @@
 
 <p align="center">
   <a href="https://regal-weather-603.notion.site/35d6dc69e5dc80d18eb8f89b0e43abe0">
-    📝 Please check my portfolio first
+    📝 Portfolio (Korean)
+  </a>
+  ·
+  <a href="https://www.notion.so/PORTFOLIO-SUNGJE-PARK-en-35d6dc69e5dc80968d9edc8c87d36cb8">
+    🌐 Portfolio (English)
   </a>
 </p>
 
 <p align="center">
   <a href="https://regal-weather-603.notion.site/35d6dc69e5dc80d18eb8f89b0e43abe0">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio on Notion" />
+    <img src="https://img.shields.io/badge/Portfolio-KR-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio in Korean on Notion" />
+  </a>
+  <a href="https://www.notion.so/PORTFOLIO-SUNGJE-PARK-en-35d6dc69e5dc80968d9edc8c87d36cb8">
+    <img src="https://img.shields.io/badge/Portfolio-EN-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio in English on Notion" />
   </a>
   <a href="mailto:dotcombubblecom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
