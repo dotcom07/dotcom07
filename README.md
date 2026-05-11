@@ -9,6 +9,15 @@
 </p>
 
 <p align="center">
+  <a href="https://regal-weather-603.notion.site/35d6dc69e5dc80d18eb8f89b0e43abe0">
+    📝 Please check my portfolio first
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://regal-weather-603.notion.site/35d6dc69e5dc80d18eb8f89b0e43abe0">
+    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio on Notion" />
+  </a>
   <a href="mailto:dotcombubblecom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
